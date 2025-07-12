@@ -1,0 +1,19 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Compiled class files ###
+*.class
+
+### Maven ###
+target/
+
+### Gradle ###
+build/
