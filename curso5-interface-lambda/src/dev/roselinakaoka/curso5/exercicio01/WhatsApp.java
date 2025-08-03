@@ -16,7 +16,6 @@ package dev.roselinakaoka.curso5.exercicio01;
  * Linguagem: Java
  */
 
-@FunctionalInterface
 public class WhatsApp implements Messager {
     public void sendMessage(String message) {
         System.out.printf("Enviando WhatsApp : %s", message);
